@@ -18,7 +18,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 </b>"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/Crazybotz">ʜᴇʀᴇ</a></b>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/genzalok">ʜᴇʀᴇ</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -192,7 +192,7 @@ Nᴀᴍᴇ - {}"""
 
 🔁 𝒇𝒊𝒍𝒆 𝒔𝒊𝒛𝒆 - {file_size}
 
-<a href='t.me/crazybotz'>𝗖𝗿𝗮𝘇𝘆𝗯𝗼𝘁𝘇</a> ✅</b>"""
+<a href='t.me/filmyrip_official'>Filmyrip</a> ✅</b>"""
     
 
     IMDB_TEMPLATE_TXT = """
