@@ -21,7 +21,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = is_enabled((environ.get('USE_CAPTION_FILTER', 'True')), True)
 
-PICS = (environ.get('PICS', 'https://graph.org/file/d208327ef06bc32765e29.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/d542066f5f4f36b55571a.jpg')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/46443096bc6895c74a716.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/451f038b4e7c2ddd10dc0.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/5e2d4418525832bc9a1b9.jpg")
@@ -48,7 +48,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'True')), True)
-HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.me/Crazybotz")
+HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.me/filmyripvr/02")
 VERIFY2_URL = environ.get('VERIFY2_URL', "publicearn.in")
 VERIFY2_API = environ.get('VERIFY2_API', "751f1d746d42985887f73f3de2810122b279dea0")
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'clicksfly.com')
